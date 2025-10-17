@@ -40,5 +40,4 @@ Implementation and coding will follow in **GP2**.
 
 ## References
 - PlantVillage Dataset  
-- Research papers on CNN-based plant disease detection  
-- MkDocs documentation: [https://www.mkdocs.org/](https://www.mkdocs.org/)
+- Research papers on CNN-based plant disease detection
