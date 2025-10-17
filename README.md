@@ -19,7 +19,7 @@ The system aims to help farmers quickly identify diseases and take early action 
 - **Name:** PlantVillage Dataset  
 - **Source:** [https://www.kaggle.com/datasets/emmarex/plantdisease](https://www.kaggle.com/datasets/emmarex/plantdisease)  
 - **Classes:** 38 categories of healthy and diseased leaves.  
-- **Format:** RGB images, typically 256×256 pixels.  
+- **Format:** RGB images.  
 
 ## Methodology (Initial Idea)
 1. **Image Pre-processing:** resize, normalize, and augment images.  
