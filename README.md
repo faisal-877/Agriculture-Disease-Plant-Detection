@@ -34,10 +34,6 @@ The system aims to help farmers quickly identify diseases and take early action 
 - NumPy / Pandas / Matplotlib  
 - MkDocs (for documentation)  
 
-## Notes
-This repository is for **GP1 (Documentation Phase)** only.  
-Implementation and coding will follow in **GP2**.
-
 ## References
 - PlantVillage Dataset  
 - Research papers on CNN-based plant disease detection
