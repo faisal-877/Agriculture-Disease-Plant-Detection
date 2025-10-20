@@ -1,0 +1,9 @@
+pytest
+mkdocs
+mkdocs-material
+ruff
+black
+ipykernel
+build
+Cython
+wheel

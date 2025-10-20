@@ -1,0 +1,10 @@
+site_name: elecadvisor
+theme:
+  name: readthedocs
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+nav:
+  - Home: index.md
+
